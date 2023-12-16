@@ -1,7 +1,7 @@
 <?php
 
 
-// URL APIs
+// URL API
 $url = 'https://jsonplaceholder.typicode.com/posts';
 
 // تنظیمات cURL
